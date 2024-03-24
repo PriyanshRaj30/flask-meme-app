@@ -51,6 +51,6 @@ To run the Flask Meme Fetcher locally, follow these steps:
 
 ## Support
 - Give a ⭐️ if this project helped you!
-- If you encounter any issues or have questions about using the script, please [open an issue](https://github.com/PriyanshRaj30/yt-thumbnail-stats/issues) on GitHub.
+- If you encounter any issues or have questions about using the script, please [open an issue](https://github.com/PriyanshRaj30/flask-meme-app/issues) on GitHub.
 
 ---
